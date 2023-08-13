@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f1cb759bc40965b4fb5c0cecefb765ab
+  m_SerializeEntries:
+  - m_GUID: 30762e46190cb854db2be3a46d896cab
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38ed645a1a4c40940a7eae1853944f22
+    m_Address: Debris
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 640f1a73f2a44a241b0e314f71978ab4
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 267060f16faa82a48a0aa491bd55f0ca
+    m_Address: Target
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d1bb36c1e7111b94aa4d68425de433f7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6341537b52823b84e99ff5854aa283af, type: 2}
+    - {fileID: 11400000, guid: 5769344e655a6c846b6e65b0d9d8602b, type: 2}
